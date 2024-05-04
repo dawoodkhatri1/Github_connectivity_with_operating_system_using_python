@@ -20,7 +20,3 @@ if r.status_code == 201:  # Use r.status_code for comparison
 else:
     t = threading.Thread(target=print_message, args=("Error occurred! Repository not created",))
     t.start()
-
-
-#export PAT="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"
-
