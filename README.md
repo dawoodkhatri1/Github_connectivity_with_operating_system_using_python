@@ -1,4 +1,4 @@
-This is the python project to connect github woth python in linux and do some operations.
+This is the python project to connect github with python in linux and do some operations.
 
 Enter below command in linux command line(Terminal) to run the files.
 
